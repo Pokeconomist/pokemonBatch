@@ -1,0 +1,16 @@
+URGENT!!!!
+FIX ERROR WHEN COMPARING POKEMON SPEEDS [SOLVED]
+STANDARDISE VARIABLE NAMES <post/pre>_<event/descriptor>_<location>
+
+VERY IMPORTANT
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MOVE STAT CALCULATIONS FROM MAIN PROGRAM TO BATTLE SIMS
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+==
+
+==
+
+1. Complete sprites for starters(back and fromt)
+2. change pokemon data storage to temp file system
+3. Add status moves
+4. Add wild pokemon (ie batsimWild)
