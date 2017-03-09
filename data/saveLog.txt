@@ -1,0 +1,1 @@
+GREEN,BLUE,midPokemon_oakLab,1,
